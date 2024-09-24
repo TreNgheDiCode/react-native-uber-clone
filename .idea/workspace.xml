@@ -5,97 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="852cce8a-1a03-4799-a20a-033496ba4843" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/(auth)/_layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-in.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-up.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/welcome.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/(tabs)/_layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/(tabs)/chat.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/(tabs)/home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/(tabs)/profile.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/(tabs)/rides.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/_layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/arrow-down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/arrow-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/back-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/chat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/dollar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/email.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/eyecross.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/lock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/out.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/pin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/selected-marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/target.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/to.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/get-started.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/no-result.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/onboarding1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/onboarding2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/onboarding3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/signup-car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/custom-button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/image.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/type.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/input-field.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/oauth.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/explore.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/+not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/+not-found.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/SpaceMono-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/adaptive-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/splash.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Collapsible.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ExternalLink.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/HelloWave.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ParallaxScrollView.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ThemedText.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ThemedView.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/__tests__/ThemedText-test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/__tests__/__snapshots__/ThemedText-test.tsx.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/navigation/TabBarIcon.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/Colors.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useColorScheme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useColorScheme.web.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useThemeColor.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/sign-up.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/sign-up.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/custom-button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/custom-button.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +54,7 @@
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "D:\\CodingLife\\MobileDevelopment\\ReactNative\\uber-clone\\node_modules\\prettier",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "inlay.hints",
+    "settings.editor.selected.configurable": "preferences.editor",
     "ts.external.directory.path": "D:\\CodingLife\\MobileDevelopment\\ReactNative\\uber-clone\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -172,7 +86,8 @@
       <workItem from="1727149006744" duration="2556000" />
       <workItem from="1727151602979" duration="830000" />
       <workItem from="1727152451182" duration="3636000" />
-      <workItem from="1727156163914" duration="3433000" />
+      <workItem from="1727156163914" duration="3895000" />
+      <workItem from="1727184186725" duration="3395000" />
     </task>
     <servers />
   </component>
